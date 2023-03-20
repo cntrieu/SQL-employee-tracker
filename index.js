@@ -29,7 +29,8 @@ function init() {
                 addDepartment();
                 break;
             case "Quit":
-                return;
+                db.end();
+                console.log("Bye!")
         }
     })
 }
