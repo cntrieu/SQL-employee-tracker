@@ -27,7 +27,7 @@ After cloning the repo, in the command line interface start by typing 'npm i' to
 
 ## Usage
 
-Create a .env file following the .env.EXAMPLE sample for the application to run. Afterwards, start the application in the CLI by typing 'npm start' or 'node index.js' in the main folder
+Create a .env file following the .env.EXAMPLE sample for the application to run. Login to your MySQL and source the schema.sql and seeds.sql in the db folder. Afterwards, start the application in the CLI by typing 'npm start' or 'node index.js' in the main folder
 
 ## Contributing
 
